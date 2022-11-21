@@ -1,0 +1,8 @@
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.Metadata/
+TB_DataPipeline/temp/
+TB_DataPipeline/code/routines/system.*.*
+TB_DataPipeline/sqlPatterns/
+TB_DataPipeline/talend.project
